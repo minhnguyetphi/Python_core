@@ -1,3 +1,9 @@
+"""
+BTVN 1:
+- Tên biến hợp lệ: Moonie123, Moonie_Phi123, Minh_Nguyet_89, moonie_89, _89moonie
+- Tên biến sai quy tắc: 123Moonie, 123_Moonie, print, del, and, 1_2_3, 123, try, return, continue
+"""
+# BTVN 2:
 name = input("Nhập tên bạn: ")
 print(f"Chào mừng {name} đã đến với chương trình")
 year_born = int(input("Nhập năm sinh: "))
