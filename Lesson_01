@@ -1,1 +1,5 @@
-
+name = input("Nhập tên bạn: ")
+print(f"Chào mừng {name} đã đến với chương trình")
+year_born = int(input("Nhập năm sinh: "))
+age = 2021 - year_born
+print(f"Số tuổi hiện tại là {age}")
